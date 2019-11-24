@@ -1,0 +1,12 @@
+# following files could not push to repo
+# idea default files
+.idea
+*.iml
+
+# mac default files
+.DS_Store
+
+# target folders
+target
+saved_model
+__pycache__
